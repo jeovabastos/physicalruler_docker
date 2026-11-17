@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=physicalruler_docker
+X-Python-2-Compatible=false
+Name=Physical Ruler Docker
+Comment=Painel acoplável para régua física no Krita
